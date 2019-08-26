@@ -1,4 +1,4 @@
-# AutomaticJobSeeker
+# Automatic Job Seeker
 
 Pari vuotta työnhakijana alkoi pikkuhiljaa tympimään, joten aloitin suunnittelemaan ohjelmaa joka automaattisesti skannaa työpaikkailmoituksia Duunitorista ja pyrkii etsimään minun osaamistani vastaavia työpaikkoja.
 
